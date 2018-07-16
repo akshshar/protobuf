@@ -1,0 +1,4 @@
+#!/bin/bash
+
+export PROTOBUF_VERSION="3.5.0"
+export PROTOBUF_HASH=2761122b810fe8861004ae785cc3ab39f384d342
